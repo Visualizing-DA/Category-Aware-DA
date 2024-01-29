@@ -1,4 +1,4 @@
-# Category_Aware Active Domain Adaptation
+# Category-Aware Active Domain Adaptation
 Pytorch implementation for paper **Category-Aware Active Domain Adaptation**. The full code will be released shortly.
 
 # Abstract
