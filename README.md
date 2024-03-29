@@ -7,6 +7,8 @@ Active domain adaptation has shown promising results in enhancing unsupervised d
 # Framework
 ![Alt text](framework.png?raw=true "Title")
 
+# Visualations for Motivation
+![Alt text](Rebuttal.svg?raw=true "Title")
 
 # Prerequisites
 - python >= 3.6.8
